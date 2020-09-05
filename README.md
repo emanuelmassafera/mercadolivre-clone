@@ -1,44 +1,87 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">UI Clone Mercado Livre</h1>
 
-## Available Scripts
+<p align="center">🔹 UI Clone da página de produto do Mercado Livre 🔹</p>
 
-In the project directory, you can run:
+<h4 align="center">🚧   Concluído 🚀 🚧</h4>
 
-### `yarn start`
+---
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre o projeto](#-sobre-o-projeto)
+   * [Layout](#-layout)
+   * [Como executar o projeto](#-como-executar-o-projeto)
+   * [Tecnologias](#-tecnologias)
+   * [Autor](#-autor)
+   * [Licença](#-licenca)
+<!--te-->
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+---
 
-### `yarn test`
+## Sobre o projeto <a name="-sobre-o-projeto" style="text-decoration:none"></a>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+UI clone da página principal de um produto qualquer da plataforma Mercado Livre. Desenvolvido com a Rocketseat. 
 
-### `yarn build`
+---
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Layout <a name="-layout" style="text-decoration:none"></a>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<img alt="" src="./public/UIClone-MercadoLivre.gif" width="600px"/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `yarn eject`
+## Como executar o projeto <a name="-como-executar-o-projeto" style="text-decoration:none"></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Pré-requisitos
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/). Para trabalhar com o código, é recomendável o uso de um bom editor, como o [VSCode](https://code.visualstudio.com/).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### Rodando a aplicação
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```bash
 
-## Learn More
+# Clone este repositório
+$ git clone https://github.com/emanuelmassafera/proffy.git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Acesse a pasta do projeto pelo terminal/cmd
+$ cd proffy
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação
+$ npm run dev
+
+# O servidor inciará na porta:5500 - acesse http://localhost:5500
+
+```
+---
+
+## Tecnologias <a name="-tecnologias" style="text-decoration:none"></a>
+
+- **[NodeJS](https://nodejs.org/en/)**
+- **[Express](https://expressjs.com/)**
+- **[SQLite Async](https://www.npmjs.com/package/sqlite-async)**
+- **[Nunjucks](https://mozilla.github.io/nunjucks/)**
+- API: **[API do WhatsApp](https://olhardigital.com.br/dicas_e_tutoriais/noticia/crie-um-link-para-o-seu-numero-no-whatsapp-e-facilite-o-papo-com-outros-contatos/69246)**
+
+---
+
+## Autor <a name="-autor" style="text-decoration:none"></a>
+
+<img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/65625500?s=460&u=eb9e300de61698fc8531949a451ce2f0e9da46f9&v=4" width="100px;" alt=""/>
+<sub>Emanuel Massafera</sub>
+
+<b></b>
+
+[![Badge](https://img.shields.io/static/v1?label=&message=Emanuel&color=blue&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelmassafera/)](https://www.linkedin.com/in/emanuelmassafera/) [![Badge](https://img.shields.io/static/v1?label=&message=emanuel301@live.com&color=0078D4&style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:emanuel301@live.com)](mailto:emanuel301@live.com)
+
+---
+
+## Licença <a name="-licenca" style="text-decoration:none"></a>
+
+Esse repositório está licenciado pela **MIT LICENSE**. Para informações detalhadas, leia o arquivo [LICENSE](https://github.com/emanuelmassafera/proffy/blob/master/LICENSE). 
+
+Made with ♥ by Emanuel Massafera :wave: [Get in touch!](https://www.linkedin.com/in/emanuelmassafera/)
