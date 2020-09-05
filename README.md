@@ -37,7 +37,9 @@ UI clone da página principal de um produto qualquer da plataforma Mercado Livre
 
 ## Layout <a name="-layout" style="text-decoration:none"></a>
 
-<img alt="" src="./public/UIClone-MercadoLivre.gif" width="600px"/>
+<h1 align="center">
+    <img alt="Gif UI Clone" src="./public/UIClone-MercadoLivre.gif" width="650px" />
+</h1>
 
 ---
 
