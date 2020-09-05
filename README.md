@@ -10,9 +10,9 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
+   * [Tecnologias](#-tecnologias)
    * [Layout](#-layout)
    * [Como executar o projeto](#-como-executar-o-projeto)
-   * [Tecnologias](#-tecnologias)
    * [Autor](#-autor)
    * [Licença](#-licenca)
 <!--te-->
@@ -22,6 +22,16 @@ Tabela de conteúdos
 ## Sobre o projeto <a name="-sobre-o-projeto" style="text-decoration:none"></a>
 
 UI clone da página principal de um produto qualquer da plataforma Mercado Livre. Desenvolvido com a Rocketseat. 
+
+---
+
+## Tecnologias <a name="-tecnologias" style="text-decoration:none"></a>
+
+- **[ReactJS](https://reactjs.org/)**
+- **[React Icons](https://react-icons.github.io/react-icons/)**
+- **[Styled Components](https://styled-components.com/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[NodeJS](https://nodejs.org/en/)**
 
 ---
 
@@ -43,30 +53,20 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/emanuelmassafera/proffy.git
+$ git clone https://github.com/emanuelmassafera/mercadolivre-clone.git
 
 # Acesse a pasta do projeto pelo terminal/cmd
-$ cd proffy
+$ cd mercadolivre-clone
 
 # Instale as dependências
 $ npm install
 
 # Execute a aplicação
-$ npm run dev
+$ npm start
 
-# O servidor inciará na porta:5500 - acesse http://localhost:5500
+# O servidor inciará na porta:3000 - acesse http://localhost:3000
 
 ```
----
-
-## Tecnologias <a name="-tecnologias" style="text-decoration:none"></a>
-
-- **[NodeJS](https://nodejs.org/en/)**
-- **[Express](https://expressjs.com/)**
-- **[SQLite Async](https://www.npmjs.com/package/sqlite-async)**
-- **[Nunjucks](https://mozilla.github.io/nunjucks/)**
-- API: **[API do WhatsApp](https://olhardigital.com.br/dicas_e_tutoriais/noticia/crie-um-link-para-o-seu-numero-no-whatsapp-e-facilite-o-papo-com-outros-contatos/69246)**
-
 ---
 
 ## Autor <a name="-autor" style="text-decoration:none"></a>
@@ -82,6 +82,6 @@ $ npm run dev
 
 ## Licença <a name="-licenca" style="text-decoration:none"></a>
 
-Esse repositório está licenciado pela **MIT LICENSE**. Para informações detalhadas, leia o arquivo [LICENSE](https://github.com/emanuelmassafera/proffy/blob/master/LICENSE). 
+Esse repositório está licenciado pela **MIT LICENSE**. Para informações detalhadas, leia o arquivo [LICENSE](https://github.com/emanuelmassafera/mercadolivre-clone/blob/master/LICENSE). 
 
 Made with ♥ by Emanuel Massafera :wave: [Get in touch!](https://www.linkedin.com/in/emanuelmassafera/)
